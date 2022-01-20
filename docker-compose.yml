@@ -6,7 +6,7 @@ services:
         ports:
             - 6080:6080
         environment: 
-            - VNC_PASSWD=freerdp
+            - VNC_PASSWD=yxy.@990524gdg
             - GEOMETRY=1280x768
             - TZ=Asia/Shanghai
             - DEPTH=24
